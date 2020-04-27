@@ -5,11 +5,11 @@
         android:icon="@drawable/home"
         android:title="@string/home" />
     <item
-        android:id="@+id/list"
+        android:id="@+id/histroy"
         android:icon="@drawable/history"
         android:title="@string/history" />
     <item
-        android:id="@+id/form"
+        android:id="@+id/setting"
         android:icon="@drawable/setting"
         android:title="@string/setting" />
 </menu>
